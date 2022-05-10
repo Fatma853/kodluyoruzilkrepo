@@ -2,7 +2,7 @@
 
 ''' Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturdığımuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. '''
 
-![Lorem Picsum Gorsel](https://dosya.co/h91fnv16rrrv/WhatsApp_Image_2022-03-31_at_22.54.59.jpeg.html
+![](https://imgyukle.com/i/RUokDx 
 )  
  
 ## Installation
@@ -13,12 +13,12 @@
 
 ## Usage
 
-''' Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için: 
 
 '''
-[] (cd kodluyoruzilkrepo
+[](cd kodluyoruzilkrepo
 code .) 
 '''
 
